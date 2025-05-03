@@ -20,7 +20,7 @@ const secrets = [
   { content: "Secret 16: J'ai volé la brosse à BBQ de Hugo." },
   { content: "Secret 17: Je me suis déjà fait·e casser la gueule par un type dont la mère est escort girl." },
   { content: "Secret 18: J'ai une tache de naissance juste au dessus de mon organe génital." },
-  { content: "Secret 19: J'ai été dans le même lycée qu'Antoine Dupont." },
+  { content: "Secret 19: J'ai été dans le même lycée qu'Antoine Dupont. (LAURA)" },
   { content: "Secret 20: J'ai une paire de côte en plus que la norme." },
 ];
 
