@@ -11,7 +11,7 @@ const secrets = [
   { content: "Secret 07: J'ai fait un massage cardiaque en pensant sauver quelqu'un, mais ça n'a rien changé." },
   { content: "Secret 08: Je me suis fait droguer en buvant un verre à une soirée et j'ai aimé ça. (ALEX)" },
   { content: "Secret 09: Mon médecin a assassiné toute sa famille." },
-  { content: "Secret 10: J'ai déjà incarné une prostituée." },
+  { content: "Secret 10: J'ai déjà incarné une prostituée. (JUSTINE)" },
   { content: "Secret 11: Un pote a eu un enfant avec sa copine alors que j'ai couché avec sans qu'il le sache. (FLORIAN)" },
   { content: "Secret 12: J'ai cambriolé une chambre d'hôtel avant d'aller dîner avec leurs occupants." },
   { content: "Secret 13: Je suis rentré·e par effraction dans un château habité." },
