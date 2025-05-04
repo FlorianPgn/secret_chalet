@@ -6,7 +6,7 @@ const secrets = [
   { content: "Secret 02: J'ai sauté de la terrasse d'un immeuble. (KELIAN)" },
   { content: "Secret 03: J'ai déjà eu un scorpion sur l'épaule. (BADRA)" },
   { content: "Secret 04: Je suis déjà sorti·e avec deux meilleur·e·s potes. (JULIEN)" },
-  { content: "Secret 05: Je me suis déjà fait spermer dans les yeux par un crapaud." },
+  { content: "Secret 05: Je me suis déjà fait spermer dans les yeux par un crapaud. (MARIE)" },
   { content: "Secret 06: Je suis sorti·e avec mon demi-frère. (ELINE)" },
   { content: "Secret 07: J'ai fait un massage cardiaque en pensant sauver quelqu'un, mais ça n'a rien changé. (NATHAN)" },
   { content: "Secret 08: Je me suis fait droguer en buvant un verre à une soirée et j'ai aimé ça. (ALEX)" },
@@ -19,9 +19,9 @@ const secrets = [
   { content: "Secret 15: J'ai été expulsé de mon collège. (ADAM)" },
   { content: "Secret 16: J'ai volé la brosse à BBQ de Hugo. (JESS)" },
   { content: "Secret 17: Je me suis déjà fait·e casser la gueule par un type dont la mère est escort girl. (HUGO)" },
-  { content: "Secret 18: J'ai une tache de naissance juste au dessus de mon organe génital." },
+  { content: "Secret 18: J'ai une tache de naissance juste au dessus de mon organe génital. (NATHA)" },
   { content: "Secret 19: J'ai été dans le même lycée qu'Antoine Dupont. (LAURA)" },
-  { content: "Secret 20: J'ai une paire de côte en plus que la norme." },
+  { content: "Secret 20: J'ai une paire de côte en plus que la norme. (ILO)" },
 ];
 
 export default function Home() {
