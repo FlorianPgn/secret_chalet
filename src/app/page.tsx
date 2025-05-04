@@ -14,7 +14,7 @@ const secrets = [
   { content: "Secret 10: J'ai déjà incarné une prostituée. (JUSTINE)" },
   { content: "Secret 11: Un pote a eu un enfant avec sa copine alors que j'ai couché avec sans qu'il le sache. (FLORIAN)" },
   { content: "Secret 12: J'ai cambriolé une chambre d'hôtel avant d'aller dîner avec leurs occupants." },
-  { content: "Secret 13: Je suis rentré·e par effraction dans un château habité." },
+  { content: "Secret 13: Je suis rentré·e par effraction dans un château habité. (ALICE)" },
   { content: "Secret 14: Je jouais avec les enfants de Johnny Depp quand j'étais petit·e. (CLAIRE)" },
   { content: "Secret 15: J'ai été expulsé de mon collège." },
   { content: "Secret 16: J'ai volé la brosse à BBQ de Hugo. (JESS)" },
