@@ -3,11 +3,11 @@ import SecretBlock from "@/components/SecretBlock";
 // Edit these secrets as needed
 const secrets = [
   { content: "Secret 01: Ma tante est sortie pendant des années avec Marc Dorcel." },
-  { content: "Secret 02: J'ai sauté de la terrasse d'un immeuble." },
+  { content: "Secret 02: J'ai sauté de la terrasse d'un immeuble. (KELIAN)" },
   { content: "Secret 03: J'ai déjà eu un scorpion sur l'épaule." },
   { content: "Secret 04: Je suis déjà sorti·e avec deux meilleur·e·s potes." },
   { content: "Secret 05: Je me suis déjà fait spermer dans les yeux par un crapaud." },
-  { content: "Secret 06: Je suis sorti·e avec mon demi-frère." },
+  { content: "Secret 06: Je suis sorti·e avec mon demi-frère. (ELINE)" },
   { content: "Secret 07: J'ai fait un massage cardiaque en pensant sauver quelqu'un, mais ça n'a rien changé." },
   { content: "Secret 08: Je me suis fait droguer en buvant un verre à une soirée et j'ai aimé ça. (ALEX)" },
   { content: "Secret 09: Mon médecin a assassiné toute sa famille." },
