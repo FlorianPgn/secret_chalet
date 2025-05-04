@@ -16,7 +16,7 @@ const secrets = [
   { content: "Secret 12: J'ai cambriolé une chambre d'hôtel avant d'aller dîner avec leurs occupants." },
   { content: "Secret 13: Je suis rentré·e par effraction dans un château habité. (ALICE)" },
   { content: "Secret 14: Je jouais avec les enfants de Johnny Depp quand j'étais petit·e. (CLAIRE)" },
-  { content: "Secret 15: J'ai été expulsé de mon collège." },
+  { content: "Secret 15: J'ai été expulsé de mon collège. (ADAM)" },
   { content: "Secret 16: J'ai volé la brosse à BBQ de Hugo. (JESS)" },
   { content: "Secret 17: Je me suis déjà fait·e casser la gueule par un type dont la mère est escort girl. (HUGO)" },
   { content: "Secret 18: J'ai une tache de naissance juste au dessus de mon organe génital." },
