@@ -2,7 +2,7 @@ import SecretBlock from "@/components/SecretBlock";
 
 // Edit these secrets as needed
 const secrets = [
-  { content: "Secret 01: Ma tante est sortie pendant des années avec Marc Dorcel." },
+  { content: "Secret 01: Ma tante est sortie pendant des années avec Marc Dorcel. (LUCILE)" },
   { content: "Secret 02: J'ai sauté de la terrasse d'un immeuble. (KELIAN)" },
   { content: "Secret 03: J'ai déjà eu un scorpion sur l'épaule. (BADRA)" },
   { content: "Secret 04: Je suis déjà sorti·e avec deux meilleur·e·s potes." },
